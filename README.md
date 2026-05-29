@@ -1,5 +1,6 @@
 # 2JianSong
-【二剪宋】本字體源自「邪宋」項目，直接就可以「繁入簡出」，不用另外開啟opentype的替換字形功能，裡面的「簡」是二次簡化的漢字
+【二剪宋】本字體源自「邪宋」項目 https://github.com/ButTaiwan/evilsung/tree/master
+這個呢，直接就可以「繁入簡出」，不用另外開啟opentype的替換字形功能，裡面的「簡」是二次簡化的漢字喔，啾咪😘
 
 <img width="1416" height="1286" alt="image" src="https://github.com/user-attachments/assets/cf42fd57-6b88-4410-8612-fa2ab75f92b0" />
 
@@ -7,7 +8,7 @@
 
 <img width="2178" height="752" alt="image" src="https://github.com/user-attachments/assets/cd024f43-73a5-4e1e-a1e0-fbfcdf21b720" />
 
-<img width="958" height="1576" alt="image" src="https://github.com/user-attachments/assets/ad11f9cf-8751-42b5-85d8-7da439c0c996" />
+
 
 <img width="2160" height="1312" alt="image" src="https://github.com/user-attachments/assets/cb9ec59c-172e-4b4e-8829-448c1e34ec19" />
 
