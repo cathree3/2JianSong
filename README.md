@@ -21,4 +21,4 @@
 
 <img width="2444" height="1714" alt="image" src="https://github.com/user-attachments/assets/3139d470-bee7-42e9-8b07-19f68e408e26" />
 
-<img width="1804" height="2052" alt="image" src="https://github.com/user-attachments/assets/35cc4e1a-3f0e-46d3-a7c8-4380b467a8fb" />
+<img width="2058" height="2050" alt="image" src="https://github.com/user-attachments/assets/58163150-dd1c-4db2-8a17-b5d31edde9e1" />
