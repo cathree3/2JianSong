@@ -3,7 +3,7 @@
 
 這個呢，直接就可以「繁入簡出」，不用另外開啟opentype的替換字形功能，裡面的「簡」是二次簡化的漢字喔，啾咪😘
 
-<img width="1416" height="1286" alt="image" src="https://github.com/user-attachments/assets/cf42fd57-6b88-4410-8612-fa2ab75f92b0" />
+<img width="2254" height="1930" alt="image" src="https://github.com/user-attachments/assets/17898b1a-5375-45a1-84a6-639bc5660081" />
 
 <img width="2006" height="1674" alt="image" src="https://github.com/user-attachments/assets/11b00201-b138-4067-a7c5-874dd01262e9" />
 
