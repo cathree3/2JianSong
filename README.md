@@ -25,7 +25,8 @@
 
 <img width="2058" height="2050" alt="image" src="https://github.com/user-attachments/assets/58163150-dd1c-4db2-8a17-b5d31edde9e1" />
 
-<img width="2912" height="1004" alt="image" src="https://github.com/user-attachments/assets/bd447834-d5fc-4156-8b32-11aba5ce3241" />
+<img width="3126" height="980" alt="image" src="https://github.com/user-attachments/assets/d20623bf-510c-41b9-a07f-5a8cdea8a2b7" />
+
 
 <img width="2444" height="1714" alt="image" src="https://github.com/user-attachments/assets/3139d470-bee7-42e9-8b07-19f68e408e26" />
 
