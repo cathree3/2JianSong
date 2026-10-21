@@ -1,48 +1,28 @@
-更新了更新了，增加了历史中真实存在的二簡字版本，默认狀態中没有个人原创字形
+# 2JianSong二簡宋
+只需輸入繁體字或一簡字便會自動顯示為二簡字。
 
-叫「二簡字2JianZi」，替换字形那里可以替换成空心「的」和楷化「ㄉ」，其他没了
+本字體源自「邪宋EvilSung」項目 ​https://github.com/ButTaiwan/evilsung/tree/master
 
-# 2JianSong
-【二剪宋】本字體源自「邪宋」項目 https://github.com/ButTaiwan/evilsung/tree/master
+但「邪宋」需使用替換字形的特性才能調用二簡字，多數軟件中並不支持此功能。故此為直接修改字形的「繁入簡出」版本，無需另外開啟替換字形功能，原理類似GB12345「偽繁體」字體。
 
-這個呢，直接就可以「繁入簡出」，不用另外開啟opentype的替換字形功能，裡面的「簡」是二次簡化的漢字喔，啾咪😘
+使用場景：新醜風設計、前衛藝術、胡言亂語、作為參考資料等。
 
-<img width="2254" height="1930" alt="image" src="https://github.com/user-attachments/assets/17898b1a-5375-45a1-84a6-639bc5660081" />
+<img width="1016" height="735" alt="image" src="https://github.com/user-attachments/assets/2d0301d3-511f-41da-a944-d0946caab4de" />
 
-<img width="850" height="828" alt="image" src="https://github.com/user-attachments/assets/d0cc880f-615e-4407-8c1f-966483ba87fe" />
+<img width="1116" height="987" alt="image" src="https://github.com/user-attachments/assets/4b4bc8b3-6b88-4ba3-9743-f085f815ddbb" />
 
+<img width="1113" height="711" alt="image" src="https://github.com/user-attachments/assets/b50a5b81-1271-4e06-994c-6c091ac06286" />
 
-<img width="2006" height="1674" alt="image" src="https://github.com/user-attachments/assets/11b00201-b138-4067-a7c5-874dd01262e9" />
+<img width="1038" height="995" alt="image" src="https://github.com/user-attachments/assets/e740f750-c9f1-412d-9196-b443a5353e6d" />
 
-<img width="2178" height="752" alt="image" src="https://github.com/user-attachments/assets/cd024f43-73a5-4e1e-a1e0-fbfcdf21b720" />
+<img width="763" height="817" alt="image" src="https://github.com/user-attachments/assets/304009c6-36fd-4b9e-bc61-db3c9cf4cd13" />
 
-<img width="1918" height="1074" alt="image" src="https://github.com/user-attachments/assets/c202d9dd-ebab-4720-b8c3-b32a5a1604e7" />
+<img width="957" height="787" alt="image" src="https://github.com/user-attachments/assets/c3eb26e4-159c-4e89-8be5-937967a2aef9" />
 
-<img width="2160" height="1312" alt="image" src="https://github.com/user-attachments/assets/cb9ec59c-172e-4b4e-8829-448c1e34ec19" />
+<img width="805" height="847" alt="image" src="https://github.com/user-attachments/assets/af585357-0795-4ed0-b84d-a895f84ddace" />
 
-<img width="2646" height="1492" alt="image" src="https://github.com/user-attachments/assets/5b719f42-5a3f-44cf-9b09-a63b4fd14ddb" />
+<img width="1157" height="724" alt="image" src="https://github.com/user-attachments/assets/873cf64b-108c-41ab-ae3e-7df10626263c" />
 
-<img width="3238" height="1394" alt="image" src="https://github.com/user-attachments/assets/021ee5c0-b171-4f7b-a6a3-ae064ffbe0a2" />
+二剪娘人設，歡迎二創
+<img width="844" height="855" alt="image" src="https://github.com/user-attachments/assets/613f8a11-a442-41b7-8f7e-7b75cbd12c07" />
 
-<img width="745" height="728" alt="image" src="https://github.com/user-attachments/assets/b822c71f-f066-45f0-a260-b1b9911eb80a" />
-
-<img width="2868" height="1546" alt="image" src="https://github.com/user-attachments/assets/6eff4009-885d-42f4-b873-90614d156295" />
-
-<img width="3232" height="1706" alt="image" src="https://github.com/user-attachments/assets/c7cb0a6a-2f2f-46bc-ae1b-b9ae1571930a" />
-
-<img width="2058" height="2050" alt="image" src="https://github.com/user-attachments/assets/58163150-dd1c-4db2-8a17-b5d31edde9e1" />
-
-<img width="3126" height="980" alt="image" src="https://github.com/user-attachments/assets/d20623bf-510c-41b9-a07f-5a8cdea8a2b7" />
-
-
-<img width="2444" height="1714" alt="image" src="https://github.com/user-attachments/assets/3139d470-bee7-42e9-8b07-19f68e408e26" />
-
-<img width="2738" height="1728" alt="image" src="https://github.com/user-attachments/assets/99d1586f-6e12-460c-9741-1434df3c5c3f" />
-
-<img width="2592" height="1124" alt="image" src="https://github.com/user-attachments/assets/8c7c2b43-adcd-4a1a-a731-c7434cf0a431" />
-
-<img width="3490" height="1742" alt="image" src="https://github.com/user-attachments/assets/cf5daa16-f672-475d-b8e6-d061414ca21b" />
-
-<img width="1964" height="2058" alt="image" src="https://github.com/user-attachments/assets/7775c841-a50f-433f-84e3-d56a855cb840" />
-
-<img width="2426" height="1024" alt="image" src="https://github.com/user-attachments/assets/1269e6e6-65a0-4920-bdae-59fb0426d1cd" />
