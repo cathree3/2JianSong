@@ -1,3 +1,6 @@
+更新了更新了，增加了历史中真实存在的二剪字版本，默认没有个人原创字形了
+叫「2JianZi」，替换字形那里可以替换成空心「的」和楷化「ㄉ」，其他没了
+
 # 2JianSong
 【二剪宋】本字體源自「邪宋」項目 https://github.com/ButTaiwan/evilsung/tree/master
 
