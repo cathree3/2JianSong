@@ -7,7 +7,7 @@
 
 使用場景：新醜風設計、前衛藝術、胡言亂語、作為參考資料等。
 
-<img width="1016" height="735" alt="image" src="https://github.com/user-attachments/assets/2d0301d3-511f-41da-a944-d0946caab4de" />
+<img width="2030" height="1468" alt="image" src="https://github.com/user-attachments/assets/def9b843-9a7e-45a1-a512-6ed408fd3dfd" />
 
 <img width="1116" height="987" alt="image" src="https://github.com/user-attachments/assets/4b4bc8b3-6b88-4ba3-9743-f085f815ddbb" />
 
